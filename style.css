@@ -82,6 +82,7 @@ main h1{
 
 #add-btn{
     padding: 8px 30px;
+    margin-top: 10px;
     border: none;
     outline: none;
     background-color: var(--btn-color);
@@ -136,6 +137,7 @@ main h1{
     font-size: 1rem;
     font-weight: bold;
     border-radius: 10px;
+    font-family: 'Poppins', sans-serif;
 }
 
 #ul-element li button:hover{
